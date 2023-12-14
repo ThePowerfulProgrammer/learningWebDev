@@ -1,0 +1,13 @@
+/* body 
+{
+    background-color: white;
+    background-image: url("{% static 'Polls/images/background.jpg' %}");
+    background-repeat: no-repeat;
+} Place directly in file :( */
+
+li a 
+{
+    color:green;
+}
+
+
